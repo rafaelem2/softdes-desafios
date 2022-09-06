@@ -9,7 +9,7 @@ O Projeto tem como foco principal o desenvolvimento de alunos da instituição d
 ![Alt text](screen1.png?raw=true "Optional Title")
 ![Alt text](screen2.png?raw=true "Optional Title")
 
-#### Link para o projeto
+#### Documentação:
 https://rafaelem2.github.io/softdes-desafios
 
 Projeto da disciplina Desenvolvimento Aberto - Rafael Monteiro João Vitor Magalhães
