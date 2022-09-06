@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: SoftDes
+site_url: https://softdes.com
+
+nav:
+  - Home: index.md
+  - Alunos: alunos.md
+  - Professores: professores.md
