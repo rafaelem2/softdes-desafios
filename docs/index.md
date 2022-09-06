@@ -6,5 +6,5 @@ O projeto Servidor de Desafios tem como principal objetivo ser um site de auxíl
 É esperado que os alunos usem esse servidor como fonte de estudo e aprendizado.
 
 ## Software em funcionamento:
-
-//ADICIONAR FOTOS//
+![Screenshot](img/screen1.png)
+![Screenshot](img/screen2.png)
